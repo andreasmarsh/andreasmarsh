@@ -9,3 +9,4 @@
 - 📫 How to reach me: marsh.andreas.s@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have US and German citizenship
+- 🎸 I'm in a [band](https://open.spotify.com/artist/19xwlFclYPc41jLJa4vEeH?si=n87Sj7zQSV6wizNcbRxW_g) with my friends
