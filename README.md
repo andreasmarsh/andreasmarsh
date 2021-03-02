@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+## Hey there 👋
 
 - 🖥 Check out my website: www.andreasmarsh.com
 - 🔭 I’m currently studying CS at the University of Georgia
