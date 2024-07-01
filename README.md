@@ -1,9 +1,10 @@
 ## Hey there 👋
 
 - 🖥 Check out my website: www.andreasmarsh.com
-- 🔭 I’m currently studying CS at the University of Georgia
-- 🌱 I’m currently learning about mobile app development
-- 🤔 I’m looking for a summer internship
+- 🔭 I’m a CS graduate from the University of Georgia
+- 🧑🏼‍💻 I have experience working at NCR Voyix using Java and Golang paired with Kubernetes
+to develop the future of next-generation self-checkout
+- 🌱 I’m interested in mobile app development and backend development
 - 📫 How to reach me: marsh.andreas.s@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have US and German citizenship
